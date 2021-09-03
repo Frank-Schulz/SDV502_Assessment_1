@@ -1,0 +1,6 @@
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\Semester 2\SDV502\Assessment 1\CinemaFunctionsUnitTesting\CinemaFunctions\bin\Debug\CinemaFunctions.dll
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\Semester 2\SDV502\Assessment 1\CinemaFunctionsUnitTesting\CinemaFunctions\bin\Debug\CinemaFunctions.pdb
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\Semester 2\SDV502\Assessment 1\CinemaFunctionsUnitTesting\CinemaFunctions\obj\Debug\CinemaFunctions.csprojAssemblyReference.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\Semester 2\SDV502\Assessment 1\CinemaFunctionsUnitTesting\CinemaFunctions\obj\Debug\CinemaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\Semester 2\SDV502\Assessment 1\CinemaFunctionsUnitTesting\CinemaFunctions\obj\Debug\CinemaFunctions.dll
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\Semester 2\SDV502\Assessment 1\CinemaFunctionsUnitTesting\CinemaFunctions\obj\Debug\CinemaFunctions.pdb
